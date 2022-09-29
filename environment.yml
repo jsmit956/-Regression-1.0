@@ -1,0 +1,12 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sckit-learn
+  - jupyter
+  - numpy
+  - pandas
+  - altair
+  - streamlit
+  
